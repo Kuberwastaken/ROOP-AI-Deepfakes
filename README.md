@@ -7,7 +7,7 @@ I've tried to make it as simple and accessible as possible, requiring just 7 sim
 1. A google account
 2. Access to an undisrupted internet connection
 3. A source image
-4. A target video
+4. A target video (the lesser things over the face the better)
 5. Patience 
 
 # STEPS TO MAKE A CONVINCING DEEPFAKE
