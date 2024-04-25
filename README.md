@@ -27,7 +27,9 @@ I've tried to make it as simple and accessible as possible, requiring just 7 sim
 
 7. Execute step-3 and wait until it shows a check mark as well. Upon completion, you'll find your deepfake named "Swapped.mp4" in the file browser, which you can download.
 
-and that's all! you're done :)
+# and that's all! you're done :)
+
+
 
 
 
