@@ -1,5 +1,7 @@
+https://github.com/user-attachments/assets/e45f6f2e-69d2-46b6-8df2-0451297928bc
+
 # ROOP-AI-Deepfakes
-This tool will help you to use AI to deepfake any photo/video with the help of Google Collab.
+This tool will help you to use AI to create deepfakes any photo/video with the help of Google Collab.
 
 I've tried to make it as simple and accessible as possible, requiring just 7 simple steps and you can do this on any platform with access to a modern web browser.
 
